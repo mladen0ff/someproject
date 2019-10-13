@@ -1,5 +1,9 @@
 function Hello() {
-    return 'Hello world';
+  return 'Hello world';
 }
 
-console.log('123')
+console.log('123');
+
+function bye() {
+  return 'Bye';
+}
